@@ -12,3 +12,6 @@ Pictures/
 Public/
 *.pyc
 
+.dropbox_bi/
+.dropbox
+.dropbox_bi
