@@ -1,0 +1,14 @@
+.DS_Store
+dropbox/
+my_env/
+__pycache__/
+*.log
+.zsh_history
+Applications/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+*.pyc
+

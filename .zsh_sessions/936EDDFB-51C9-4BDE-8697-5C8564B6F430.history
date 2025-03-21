@@ -1,0 +1,50 @@
+diskutil list
+diskutil unmountdisk force /dev/disk5
+diskutil list
+diskutil eraseDisk MS-DOS Festool GPT /dev/disk5
+diskutil eraseDisk ExFAT Festool GPT /dev/disk5
+diskutil list
+sudo dd if=path_to_memtest86-usb.img of=/dev/disk5 bs:
+diskutil eject /dev/disk5
+sudo diskutil unmountDisk force /dev/disk5
+sudo diskutil unmountDisk force /dev/disk5
+sudo diskutil unmountDisk force /dev/disk5
+sudo diskutil unmountDisk force /dev/disk5
+sudo diskutil eraseDisk ExFAT Festool GPT /ddev/disk5
+sudo diskutil eraseDisk EXFAT Festool GPT /dev/disk5
+sudo diskutil partitionDisk /dev/disk5 GPT "free Space" 100%
+diskutil list
+diskutil list
+sudo diskutil eraseDisk ExFAT Festool GPT /dev/disk2
+sudo diskutil eraseDisk ExFAT Festool GPT /dev/disk2
+diskutil list
+sudo diskutil unmountDisk force /dev/disk2
+sudo diskutil eraseDisk Free Space GPT /dev/disk2
+ diskutil list
+sudo diskutil eraseDisk ExFAT Festool GPT /dev/disk2
+sudo dd if=path_to_memtest86_usb.img of=/dev/disk2 bs:
+sudo dd if=path_to_memtest86-usb.img of=/dev/disk2 bs:
+I typesudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+sudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+if=/Users/travissimpson/Downloads/memtest86-usb/memtest86-usb.img 
+sudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m
+if=/Users/travissimpson/Downloads/memtest86-usb/memtest86-usb.img sudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+/Users/travissimpson/Downloads/memtest86-usb/memtest86-usb.img  sudo dd if=/Users/travissimpson/Downloads/memtest86-usb/memtest86-usb.img of=/dev/disk2 bs=1m
+sudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+sudo dd if=/Users/travissimpson/Downloads/memtest86-usb-2/memtest86-usb.img of=/dev/disk2
+sudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+sudo dd if=/Users/yourname/Downloads/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+sudo dd if=\
+/Users/travissimpson/Downloads/memtest86-usb-2/memtest86-usb.img    of=/dev/disk2 bs=1m\
+
+sudo dd if=/Users/yourname/Downloads/memtest86-usb-2/memtest86-usb.img of=/dev/disk2 bs=1m
+sudo dd if=/Users/yourname/Downloads/memtest86-usb-2/memtest86-usb.img of=/dev/disk2 bs=1m\
+
+sudo xattr -rd com.apple.quarantine /Applications/ChatGPT.app
+sudo spctl --master-disable
